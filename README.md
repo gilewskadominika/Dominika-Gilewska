@@ -1,4 +1,4 @@
-### Hello World 
+### Hello World !
 Many years of experience in customer service led me to make a significant decision to transition to a new industry driven by my passion for computers. Six months ago, after completing my master’s degree, I resigned from my job to dedicate myself fully to learning programming. This pursuit brings me immense joy and satisfaction, and through it, I’m starting to perceive the world in a different light
 - Course attendant (CodersLab Python Developer)
 - Programming languages : Python, Java Script
