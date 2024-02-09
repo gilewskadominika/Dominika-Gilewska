@@ -9,4 +9,4 @@ Many years of experience in customer service led me to make a significant decisi
 - Other: HTML, CSS
 - Completed courses: CodersLab Python Developer, CodersLab SCRUMLAB
 - Connect with me
-<br><a align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href='www.linkedin.com/in/dominika-gilewska-0255102a9'> </a><a align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href='https://www.facebook.com/dominika.gilewska.7'></a> <br>
+<br><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href='www.linkedin.com/in/dominika-gilewska-0255102a9'> <img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href='https://www.facebook.com/dominika.gilewska.7'> <br>
