@@ -5,7 +5,7 @@ Many years of experience in customer service led me to make a significant decisi
 - Frameworks: Django, Flask
 - Databases: SQL, SQLite
 - Methodology: Agile - SCRUM
-- Tools / Technologies: Git, Docker, Trello, Pytest
+- Tools / Technologies: Git, Docker, Trello, Pytest, Unit Tests
 - Other: HTML, CSS
 - Completed courses: CodersLab Python Developer, CodersLab SCRUMLAB
 - Connect with me
