@@ -1,5 +1,12 @@
 ### Hello World !
-Many years of experience in customer service led me to make a significant decision to transition to a new industry driven by my passion for computers. After completing my master’s degree, I resigned from my job to dedicate myself fully to learning programming. This pursuit brings me immense joy and satisfaction, and through it, I’m starting to perceive the world in a different light
+My name is Dominika, I am 27 years old, and a year ago, I decided to completely turn my life around. 
+After obtaining a master's degree in psychology, I chose to become a programmer. I successfully 
+completed a Python Developer course, and additionally, in March, I will undergo a certified SCRUM 
+course. In April, I’ll start learning JavaScript and React in the evenings. From the very beginning, I fell 
+in love with programming, and it has changed the way I think. I am interested in this position because 
+in the future, I would like to combine traveling with work. My first job involved a lot of traveling, and 
+since then, I would like to be able to merge the two. Besides traveling and programming, I play 
+League of Legends and The Witcher (I am passionate about both books and games). 
 - Course attendant (CodersLab PortfolioLab)
 - Programming languages : Python, Java Script
 - Frameworks: Django, Flask
