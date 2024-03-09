@@ -8,5 +8,15 @@ Many years of experience in customer service led me to make a significant decisi
 - Tools / Technologies: Git, Docker, Trello, Pytest, Unit Tests
 - Other: HTML, CSS
 - Completed courses: CodersLab Python Developer, CodersLab SCRUMLAB
-- Connect with me
-<br><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href='www.linkedin.com/in/dominika-gilewska-0255102a9'> <img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href='https://www.facebook.com/dominika.gilewska.7'> <br>
+  
+  I am [#opentowork](https://www.linkedin.com/in/dominika-gilewska-0255102a9/)—reach me out:
+- via [LinkedIn (`dominika-gilewska-0255102a9`)](https://www.linkedin.com/in/dominika-gilewska-0255102a9/),
+- via [e-mail (`gilewskadominika@wp.pl`)](mailto:gilewskadominika@wp.pl).
+
+
+[![Gmail](https://img.shields.io/badge/gilewskadominika@wp.pl-D14836?logo=gmail&logoColor=white)](mailto:gilewskadominika@wp.pl)
+[![LinkedIn](https://img.shields.io/badge/in%2Fgilewskadominika-0255102a9-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-gilewska-0255102a9/)
+
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://shields.io/)
